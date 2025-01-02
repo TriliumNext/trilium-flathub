@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>com.github.zadam.trilium</id>
-  <name>Trilium Notes</name>
+  <id>com.github.triliumnext.trilium</id>
+  <name>TriliumNext Notes</name>
   <summary>Build your personal knowledge base</summary>
-  <url type="homepage">https://github.com/zadam/trilium</url>
-  <developer_name>zadam</developer_name>
+  <url type="homepage">https://github.com/TriliumNext/Notes</url>
+  <developer_name>TriliumNext Notes Team</developer_name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>AGPL-3.0-or-later</project_license>
   <content_rating type="oars-1.1"/>
   
   <description>
-    <p>Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.</p>
+    <p>TriliumNext Notes is a hierarchical note taking application with focus on building large personal knowledge bases.</p>
     <p>Features:</p>
     <ul>
       <li>Rich WYSIWYG note editing including e.g. tables, images and math with markdown autoformat</li>
@@ -30,14 +30,14 @@
     </ul>
   </description>
   
-  <launchable type="desktop-id">com.github.zadam.trilium.desktop</launchable>
+  <launchable type="desktop-id">com.github.triliumnext.trilium.desktop</launchable>
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png</image>
+      <image>https://triliumnext.github.io/Docs/Wiki/images/screenshot.png</image>
     </screenshot>
   </screenshots>
 
   <releases>
-    <release version="0.53.2" date="2022-07-09"/>
+    <release version="0.90.12" date="2024-11-24"/>
   </releases>
 </component>
