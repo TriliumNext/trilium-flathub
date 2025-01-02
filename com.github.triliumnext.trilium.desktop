@@ -1,8 +1,9 @@
 [Desktop Entry]
 Type=Application
-Name=Trilium Notes
+Name=TriliumNext Notes
 Comment=Build your personal knowledge base
-Icon=com.github.zadam.trilium
+Icon=com.github.triliumnext.trilium
 Exec=trilium
 Categories=Office
 Terminal=false
+StartupWMClass=TriliumNext Notes
